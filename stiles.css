@@ -1,0 +1,37 @@
+#honodes{
+    background-color: #353a40;
+    color: #cbc0b2;
+}
+
+#downtype{
+    background-color: #1d4962;
+}
+
+.jsc{
+    font-weight: 1000;
+    background-color: #ffc108;
+    border-radius: 4px;
+}
+
+.rea{
+    font-weight: 1000;
+    
+    background-color: #1aa1b8;
+    border-radius: 4px;
+}
+
+.neg{
+    font-weight: 1000;
+    background-color: #6c747e;
+    border-radius: 4px;
+}
+
+.star{
+    font-weight: 1000;
+    background-color: #dc3546;
+    border-radius: 4px;
+}
+
+#buenosaires{
+    background-image: url("resources/ba1.jpg");
+}
